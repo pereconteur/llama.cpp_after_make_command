@@ -29,4 +29,7 @@ And BADABOOOM !
 
 [![twitch](https://img.shields.io/twitch/status/pereconteur?label=PereConteur&style=social)](https://www.twitch.tv/pereconteur)
 
+## About the repo
 
+ - ![](https://img.shields.io/github/repo-size/pereconteur/llama.cpp_after_make_command)
+ - ![](https://img.shields.io/github/last-commit/pereconteur/llama.cpp_after_make_command)
