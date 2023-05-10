@@ -13,7 +13,7 @@ You will find in this repository the same files as in the [llama.cpp](https://gi
 
 To retrieve the repo follow this command:
 
-`git clone https://github.com/pereconteur/llama.cpp_after_make_command`
+```git clone https://github.com/pereconteur/llama.cpp_after_make_command```
 
 Once it is done, keep the folder that concerns your OS.
 
